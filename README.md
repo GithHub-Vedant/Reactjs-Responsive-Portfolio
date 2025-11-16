@@ -106,19 +106,19 @@ Home Section:
 
 About Section:
 
-![About Section](screenshot/Screenshot%202025-11-16%20175705.png)
+![About Section](screenshot/Screenshot%202025-11-16%20183043.png)
 
 Services Section:
 
-![Services Section](screenshot/Screenshot%202025-11-16%20175719.png)
+![Services Section](screenshot/Screenshot%202025-11-16%20183053.png)
 
 Portfolio Section:
 
-![Portfolio Section](screenshot/Screenshot%202025-11-16%20175732.png)
+![Portfolio Section](screenshot/Screenshot%202025-11-16%20183112.png)
 
 Contact Section:
 
-![Contact Section](screenshot/Screenshot%202025-11-16%20175742.png)
+![Contact Section](screenshot/Screenshot%202025-11-16%20183124.png)
 
 ## How to Run the Project
 
