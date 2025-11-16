@@ -181,4 +181,4 @@ To customize this portfolio for your own use:
 
 -------------------------------------------------------------------------------
 
-© 2025 Vedant. All rights reserved
+© 2025 Vedant Ligade. All rights reserved
