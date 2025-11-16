@@ -17,13 +17,6 @@
   font-weight: 500;
 }
 
-.about-title img {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  z-index: -1;
-}
-
 .about-sections {
   display: flex;
   gap: 80px;
@@ -86,7 +79,7 @@
   transition: 0.5s;
 }
 
-.about-achievement h1{
+.about-achievement h1 {
   font-size: 40px;
   font-weight: 500;
   background: linear-gradient(270deg, #03e6f6 50.41%, #ff0099 90.25%);
@@ -95,83 +88,78 @@
   background-clip: text;
 }
 
-.about-achievement p{
+.about-achievement p {
   font-size: 20px;
   font-weight: 500;
 }
 
-.about-skill:hover{
+.about-skill:hover {
   transform: scale(1.05);
   transition: 0.3s;
 }
 
-.about-achievement:hover{
+.about-achievement:hover {
   transform: scale(1.12);
   transition: 0.5s;
 }
 
-.about-left img{
+.about-left img {
   width: 380px;
   height: 380px;
 }
 
-@media (max-width:768px){
-  .about{
+@media (max-width:768px) {
+  .about {
     gap: 80px;
     margin: 50px 70px;
     align-items: start;
   }
 
-  .about-title h1{
+  .about-title h1 {
     font-size: 30px;
     padding: 0;
   }
 
-  .about-title img{
-    width: 100px;
-    right: -1px;
-  }
-
-  .about-sections{
+  .about-sections {
     flex-direction: column;
   }
 
-  .about-left{
+  .about-left {
     display: none;
   }
 
-  .about-para{
+  .about-para {
     font-size: 16px;
     line-height: 32px;
   }
 
-  .about-skill{
+  .about-skill {
     gap: 20px;
     align-items: center;
   }
 
-  .about-skill p{
+  .about-skill p {
     font-size: 15px;
   }
 
-  .about-skill hr{
+  .about-skill hr {
     height: 6px;
   }
 
-  .about-achievement{
+  .about-achievement {
     justify-content: space-between;
   }
 
-  .about-achievement{
+  .about-achievement {
     gap: 10px;
   }
 
-  .about-achievement h1{
+  .about-achievement h1 {
     font-size: 30px;
     font-weight: 500;
   }
 
-  .about-achievement p{
+  .about-achievement p {
     text-align: center;
     font-size: 17px;
   }
