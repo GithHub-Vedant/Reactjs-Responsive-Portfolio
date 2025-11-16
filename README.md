@@ -179,4 +179,6 @@ To customize this portfolio for your own use:
    - Modify CSS files in each component folder to change colors, fonts, spacing
    - Global styles can be adjusted in `src/index.css`
 
+-------------------------------------------------------------------------------
+
 © 2025 Vedant. All rights reserved
