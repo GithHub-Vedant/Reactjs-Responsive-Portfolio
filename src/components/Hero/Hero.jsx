@@ -2,7 +2,6 @@ import React from 'react'
 import './Hero.css'
 import profile_img1 from '../../assets/profile_img1.png'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
-import cv from '../../assets/cv.pdf'
 
 function Hero() {
   return (
@@ -12,7 +11,7 @@ function Hero() {
       <p>I'm Vedant, Java Full Stack Developer.Passionate about designing beautiful web interface. Based in Pune </p>
       <div className="hero-action">
         <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect with me</AnchorLink></div>
-        <div className="hero-resume"><a href={cv} target='_blank'>My resume</a></div>
+        <div className="hero-resume"><a href="src\assets\CV.pdf" target='_blank'>My resume</a></div>
       </div>
     </div>
   )
