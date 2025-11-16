@@ -102,23 +102,23 @@ Below are screenshots of the portfolio website showing different sections and re
 
 Home Section:
 
-![Home Section](screenshot/Screenshot%202025-11-16%20170625.png)
+![Home Section](screenshot/Screenshot%202025-11-16%20175653.png)
 
 About Section:
 
-![About Section](screenshot/Screenshot%202025-11-16%20170641.png)
+![About Section](screenshot/Screenshot%202025-11-16%20175705.png)
 
 Services Section:
 
-![Services Section](screenshot/Screenshot%202025-11-16%20170655.png)
+![Services Section](screenshot/Screenshot%202025-11-16%20175719.png)
 
 Portfolio Section:
 
-![Portfolio Section](screenshot/Screenshot%202025-11-16%20170710.png)
+![Portfolio Section](screenshot/Screenshot%202025-11-16%20175732.png)
 
 Contact Section:
 
-![Contact Section](screenshot/Screenshot%202025-11-16%20170725.png)
+![Contact Section](screenshot/Screenshot%202025-11-16%20175742.png)
 
 ## How to Run the Project
 
