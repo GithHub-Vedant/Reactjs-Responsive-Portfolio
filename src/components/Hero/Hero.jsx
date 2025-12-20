@@ -11,7 +11,7 @@ function Hero() {
       <p>I'm Vedant, Java Full Stack Developer.Passionate about designing beautiful web interface. Based in Pune </p>
       <div className="hero-action">
         <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect with me</AnchorLink></div>
-        <div className="hero-resume"><a href="src\assets\CV.pdf" target='_blank'>My resume</a></div>
+        <div className="hero-resume"><a href="./src/assets/CV.pdf" target='_blank'>My resume</a></div>
       </div>
     </div>
   )
