@@ -1,6 +1,9 @@
 import React from 'react'
 import './Footer.css'
 import user_icon from '../../assets/user_icon.svg'
+import github_icon from '../../assets/github.png'
+import instagram_icon from '../../assets/instagram.png'
+import pinterest_icon from '../../assets/pinterest-logo.png'
 
 const Footer = () => {
   return (
@@ -20,6 +23,17 @@ const Footer = () => {
         </div>
       </div>
       <hr />
+      <div className='footer-social-icons'>
+        <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+          <img src={github_icon} alt="GitHub" className="social-icon" />
+        </a>
+        <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+          <img src={instagram_icon} alt="Instagram" className="social-icon" />
+        </a>
+        <a href="https://pinterest.com" target="_blank" rel="noopener noreferrer">
+          <img src={pinterest_icon} alt="Pinterest" className="social-icon" />
+        </a>
+      </div>
       <div className='footer-bottom'>
         <p className='footer-bottom-left'>© 2025 Vedant. All rights reserved</p>
         <div className='footer-bottom-right'>
